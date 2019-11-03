@@ -1,0 +1,5 @@
+#fetch
+SELECT id,data,hashkey,data_gen_time,data_ins_time,now() at TIME ZONE 'EET' AS access_time as access_time from repository;
+
+#Insert
+INSERT INTO repository (source, data, hashkey,data_gen_time,data_ins_time ) VALUES ('${source}', '${data}','${hashkey}','${data_gen_time}','${now()}');
