@@ -23,7 +23,8 @@ This repository contains the resources used and implementation instructions.
 * <https://flask-restful.readthedocs.io/en/latest/>
 
 ## Copyright and license
+Apache License 2.0
 
-Code and documentation copyright the authors.
-
+## Acknowledgement
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 825040 (RADON).
  
